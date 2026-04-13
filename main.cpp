@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int n;
-    char letters[6] = {'A', 'B', 'C', 'D', 'E', 'F'};
+    char letters[7] = {'A', 'B', 'C', 'D', 'E', 'F', 'G'};
 
     // TODO: ask user for input
     cout << "Enter number: ";
